@@ -41,4 +41,4 @@ The analysis provided several key insights:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/Screenshot 2024-07-13 211950.png)
+![Dashboard Overview](Dashboard.png)
